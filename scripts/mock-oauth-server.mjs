@@ -76,6 +76,7 @@ const loginPage = (redirectUri, state, codeChallenge) => `
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset="UTF-8">
   <title>Mock OAuth Login</title>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
