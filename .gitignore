@@ -30,8 +30,9 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
+# env files
 .env*
+!.env.development
 
 # vercel
 .vercel
@@ -40,4 +41,11 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# playwright
+playwright-report
+test-results
+
+# scratch / dev files
 scratch
+todo.md
+prompt.md
