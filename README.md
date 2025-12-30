@@ -68,3 +68,8 @@ yarn dev
 yarn test          # unit tests
 yarn test:e2e      # playwright (requires yarn dev running)
 ```
+
+## References
+
+- [NIST SP 800-207: Zero Trust Architecture](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf)
+- [Cloud Native Data Security with OAuth](https://www.amazon.co.uk/dp/1098164881) - Gary Archer, O'Reilly
